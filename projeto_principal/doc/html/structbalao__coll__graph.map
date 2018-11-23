@@ -1,0 +1,7 @@
+<map id="balao" name="balao">
+<area shape="rect" id="node2" href="$struct_bitmap.html" title="Represents a Bitmap. " alt="" coords="104,184,167,211"/>
+<area shape="rect" id="node3" href="$struct_bitmap_info_header.html" title="BitmapInfoHeader" alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node4" href="$structlinha.html" title="linha" alt="" coords="179,95,228,121"/>
+<area shape="rect" id="node5" href="$structmapa.html" title="mapa" alt="" coords="176,5,231,32"/>
+<area shape="rect" id="node6" href="$structli.html" title="lista ligada com o caminho dos balões " alt="" coords="191,184,229,211"/>
+</map>

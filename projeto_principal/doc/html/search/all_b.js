@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['kbc_5fcmd_5freg',['KBC_CMD_REG',['../group__i8042.html#ga6d57c7927a10f638c83046b52c8caac9',1,'KBC_CMD_REG():&#160;i8042.h'],['../group__mouse__macros.html#ga6d57c7927a10f638c83046b52c8caac9',1,'KBC_CMD_REG():&#160;mouse_macros.h']]],
+  ['kbc_5fcmd_5freg_5fargs',['KBC_CMD_REG_ARGS',['../group__i8042.html#ga903f2c954f6668b12e18b7cf85f689a3',1,'KBC_CMD_REG_ARGS():&#160;i8042.h'],['../group__mouse__macros.html#ga903f2c954f6668b12e18b7cf85f689a3',1,'KBC_CMD_REG_ARGS():&#160;mouse_macros.h']]],
+  ['kbc_5fread_5fcb',['KBC_READ_CB',['../group__i8042.html#ga13d8099bb96986727c57c1708fb0acd9',1,'KBC_READ_CB():&#160;i8042.h'],['../group__mouse__macros.html#ga13d8099bb96986727c57c1708fb0acd9',1,'KBC_READ_CB():&#160;mouse_macros.h']]],
+  ['kbc_5fwrite_5fcb',['KBC_WRITE_CB',['../group__i8042.html#ga673fcee95b56519ae08a7e7c364781b5',1,'KBC_WRITE_CB():&#160;i8042.h'],['../group__mouse__macros.html#ga673fcee95b56519ae08a7e7c364781b5',1,'KBC_WRITE_CB():&#160;mouse_macros.h']]],
+  ['kbd_5fcmd_5fbuf',['KBD_CMD_BUF',['../group__i8042.html#ga37b199e78c60fa6fec9295cf0c6155f3',1,'KBD_CMD_BUF():&#160;i8042.h'],['../group__mouse__macros.html#ga37b199e78c60fa6fec9295cf0c6155f3',1,'KBD_CMD_BUF():&#160;mouse_macros.h']]],
+  ['kbd_5fhandler',['kbd_handler',['../group__keyboard.html#ga0176f2e1058d5de125dab9b4d95a0c37',1,'kbd_handler(unsigned long *code2):&#160;keyboard.c'],['../group__keyboard.html#ga0176f2e1058d5de125dab9b4d95a0c37',1,'kbd_handler(unsigned long *code2):&#160;keyboard.c']]],
+  ['kbd_5fibf',['KBD_IBF',['../group__i8042.html#gaa1e6362ae223465d76fa2bcb690e7629',1,'KBD_IBF():&#160;i8042.h'],['../group__mouse__macros.html#gaa1e6362ae223465d76fa2bcb690e7629',1,'KBD_IBF():&#160;mouse_macros.h']]],
+  ['kbd_5fin_5fbuf',['KBD_IN_BUF',['../group__i8042.html#ga4bcf0699d564f2a7481e969bd1e06184',1,'KBD_IN_BUF():&#160;i8042.h'],['../group__mouse__macros.html#ga4bcf0699d564f2a7481e969bd1e06184',1,'KBD_IN_BUF():&#160;mouse_macros.h']]],
+  ['kbd_5firq',['KBD_IRQ',['../group__i8042.html#ga5c1072213ce8d8cd43628c4319ae0391',1,'KBD_IRQ():&#160;i8042.h'],['../group__mouse__macros.html#ga5c1072213ce8d8cd43628c4319ae0391',1,'KBD_IRQ():&#160;mouse_macros.h']]],
+  ['kbd_5fobf',['KBD_OBF',['../group__i8042.html#gab0c33c6b6e6c7de535cee31a3d54ce6e',1,'KBD_OBF():&#160;i8042.h'],['../group__macros.html#gab0c33c6b6e6c7de535cee31a3d54ce6e',1,'KBD_OBF():&#160;macros.h'],['../group__mouse__macros.html#gab0c33c6b6e6c7de535cee31a3d54ce6e',1,'KBD_OBF():&#160;mouse_macros.h']]],
+  ['kbd_5fout_5fbuf',['KBD_OUT_BUF',['../group__i8042.html#gaeff3162e464a9081f73e3765f199d7c1',1,'KBD_OUT_BUF():&#160;i8042.h'],['../group__mouse__macros.html#gaeff3162e464a9081f73e3765f199d7c1',1,'KBD_OUT_BUF():&#160;mouse_macros.h']]],
+  ['kbd_5fpar_5ferr',['KBD_PAR_ERR',['../group__i8042.html#ga707354d3af36f5cff8942f2fa713df5e',1,'KBD_PAR_ERR():&#160;i8042.h'],['../group__mouse__macros.html#ga707354d3af36f5cff8942f2fa713df5e',1,'KBD_PAR_ERR():&#160;mouse_macros.h']]],
+  ['kbd_5fstatus_5freg',['KBD_STATUS_REG',['../group__i8042.html#ga6972f5bf9a2559a97fa282b542df5e42',1,'KBD_STATUS_REG():&#160;i8042.h'],['../group__mouse__macros.html#ga6972f5bf9a2559a97fa282b542df5e42',1,'KBD_STATUS_REG():&#160;mouse_macros.h']]],
+  ['kbd_5fsubscribe',['kbd_subscribe',['../group__keyboard.html#ga30099edd4f1949ad1e95c8b4cace395d',1,'kbd_subscribe(void):&#160;keyboard.c'],['../group__keyboard.html#ga30099edd4f1949ad1e95c8b4cace395d',1,'kbd_subscribe(void):&#160;keyboard.c']]],
+  ['kbd_5fto_5ferr',['KBD_TO_ERR',['../group__i8042.html#gacc047b230dccd0b0052e668856cc4848',1,'KBD_TO_ERR():&#160;i8042.h'],['../group__mouse__macros.html#gacc047b230dccd0b0052e668856cc4848',1,'KBD_TO_ERR():&#160;mouse_macros.h']]],
+  ['kbd_5funsubscribe',['kbd_unsubscribe',['../group__keyboard.html#ga236b36fb9eb70f7233f4e661b7b45eff',1,'kbd_unsubscribe():&#160;keyboard.c'],['../group__keyboard.html#ga236b36fb9eb70f7233f4e661b7b45eff',1,'kbd_unsubscribe():&#160;keyboard.c']]],
+  ['keyboard',['keyboard',['../group__keyboard.html',1,'']]],
+  ['keyboard_2ec',['keyboard.c',['../keyboard_8c.html',1,'']]],
+  ['keyboard_2ed',['keyboard.d',['../keyboard_8d.html',1,'']]],
+  ['keyboard_2eh',['keyboard.h',['../keyboard_8h.html',1,'']]],
+  ['keypressed',['keypressed',['../group__program.html#ga6ac4bc10ca05a2660604cf0d6a228fce',1,'keypressed(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c'],['../group__program.html#ga6ac4bc10ca05a2660604cf0d6a228fce',1,'keypressed(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c']]],
+  ['keypressed_5fjogador1',['keypressed_jogador1',['../group__program.html#ga9a80f524b3c4910d2b53d75332951d86',1,'keypressed_jogador1(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c'],['../group__program.html#ga9a80f524b3c4910d2b53d75332951d86',1,'keypressed_jogador1(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c']]],
+  ['keypressed_5fjogador2',['keypressed_jogador2',['../group__program.html#gad5f3ec2980fa2bf1ce9dedd03db43252',1,'keypressed_jogador2(unsigned long scancode):&#160;program.c'],['../group__program.html#gad5f3ec2980fa2bf1ce9dedd03db43252',1,'keypressed_jogador2(unsigned long scancode):&#160;program.c']]]
+];

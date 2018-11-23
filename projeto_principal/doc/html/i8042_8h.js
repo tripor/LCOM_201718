@@ -1,0 +1,26 @@
+var i8042_8h =
+[
+    [ "BIT", "group__i8042.html#ga3a8ea58898cb58fc96013383d39f482c", null ],
+    [ "BREAK_CODE", "group__i8042.html#gac6b47609a951e77244ef2be1691c298a", null ],
+    [ "DELAY_US", "group__i8042.html#ga1a522aa19bcb695a9df30032a893bee3", null ],
+    [ "DISABLE_KBD", "group__i8042.html#ga316ec87df8c322f99c9eb65b107dd285", null ],
+    [ "DISABLE_MOUSE", "group__i8042.html#ga12d3b0abea66d191d47fe6860e58865e", null ],
+    [ "ENA_IN_KBD", "group__i8042.html#ga35c7ea2fdcae8700b04e4dbcd5743e5f", null ],
+    [ "ENA_IN_MOUSE", "group__i8042.html#gaf51f45e6b4584834a8e214a4b9a8d11a", null ],
+    [ "ESC_BREAK_CODE", "group__i8042.html#ga592dfdf397b21913348b4dd6b7759b2d", null ],
+    [ "GET_CMD", "group__i8042.html#gae227e0ae012e81252c364afa63019f39", null ],
+    [ "KBC_CMD_REG", "group__i8042.html#ga6d57c7927a10f638c83046b52c8caac9", null ],
+    [ "KBC_CMD_REG_ARGS", "group__i8042.html#ga903f2c954f6668b12e18b7cf85f689a3", null ],
+    [ "KBC_READ_CB", "group__i8042.html#ga13d8099bb96986727c57c1708fb0acd9", null ],
+    [ "KBC_WRITE_CB", "group__i8042.html#ga673fcee95b56519ae08a7e7c364781b5", null ],
+    [ "KBD_CMD_BUF", "group__i8042.html#ga37b199e78c60fa6fec9295cf0c6155f3", null ],
+    [ "KBD_IBF", "group__i8042.html#gaa1e6362ae223465d76fa2bcb690e7629", null ],
+    [ "KBD_IN_BUF", "group__i8042.html#ga4bcf0699d564f2a7481e969bd1e06184", null ],
+    [ "KBD_IRQ", "group__i8042.html#ga5c1072213ce8d8cd43628c4319ae0391", null ],
+    [ "KBD_OBF", "group__i8042.html#gab0c33c6b6e6c7de535cee31a3d54ce6e", null ],
+    [ "KBD_OUT_BUF", "group__i8042.html#gaeff3162e464a9081f73e3765f199d7c1", null ],
+    [ "KBD_PAR_ERR", "group__i8042.html#ga707354d3af36f5cff8942f2fa713df5e", null ],
+    [ "KBD_STATUS_REG", "group__i8042.html#ga6972f5bf9a2559a97fa282b542df5e42", null ],
+    [ "KBD_TO_ERR", "group__i8042.html#gacc047b230dccd0b0052e668856cc4848", null ],
+    [ "TIMER0_IRQ", "group__i8042.html#ga30bf84c312af248cb81bb224e09f9ba8", null ]
+];

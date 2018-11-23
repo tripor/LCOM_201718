@@ -1,0 +1,8 @@
+<map id="conjunto_projeteis" name="conjunto_projeteis">
+<area shape="rect" id="node2" href="$structdardo.html" title="lista duplamente ligada com os projeteis " alt="" coords="117,396,172,423"/>
+<area shape="rect" id="node3" href="$structim.html" title="lista duplamente ligada que guarda os macacos ou outras coisas como o mapa e os overlays ..." alt="" coords="176,297,215,323"/>
+<area shape="rect" id="node4" href="$struct_bitmap.html" title="Represents a Bitmap. " alt="" coords="104,184,167,211"/>
+<area shape="rect" id="node5" href="$struct_bitmap_info_header.html" title="BitmapInfoHeader" alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node6" href="$structlinha.html" title="linha" alt="" coords="179,95,228,121"/>
+<area shape="rect" id="node7" href="$structmapa.html" title="mapa" alt="" coords="176,5,231,32"/>
+</map>

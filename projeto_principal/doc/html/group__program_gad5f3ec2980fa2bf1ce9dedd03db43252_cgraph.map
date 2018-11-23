@@ -1,0 +1,10 @@
+<map id="keypressed_jogador2" name="keypressed_jogador2">
+<area shape="rect" id="node2" href="$group__program.html#ga1a86d3f17599a3160c8a01d7f488aad2" title="funções que adicionam objetos " alt="" coords="209,56,277,83"/>
+<area shape="rect" id="node4" href="$group__ser.html#ga9941f22e49c9f87d26a437a949dec273" title="manda um balão para o outro jogador " alt="" coords="199,5,287,32"/>
+<area shape="rect" id="node6" href="$group__program.html#gaf90841a8e67fc4a9c63889db091e90b5" title="funções que adicionam objetos " alt="" coords="205,107,280,133"/>
+<area shape="rect" id="node7" href="$group__program.html#gaffc10441eee94abbcfd7b1215324e1a0" title="funções que adicionam objetos " alt="" coords="201,157,284,184"/>
+<area shape="rect" id="node8" href="$group__program.html#ga5933ca7cbaa6fd99f310593fb90b441a" title="funções que adicionam objetos " alt="" coords="199,208,286,235"/>
+<area shape="rect" id="node9" href="$group__program.html#ga839e4fde58cd71587f5b589f2837d834" title="funções que adicionam objetos " alt="" coords="205,259,280,285"/>
+<area shape="rect" id="node3" href="$group__low_program.html#ga515d867d62340b40b9c4769e92714ba3" title="adiciona um balão a lista ,ligando&#45;o ao ultimo " alt="" coords="345,157,426,184"/>
+<area shape="rect" id="node5" href="$group__ser.html#ga96e5576d45e86b7a33fb41bab3becbac" title="esperar que o buffer de envio fique vazio " alt="" coords="335,5,436,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_statreg" name="get_statreg">
+<area shape="rect" id="node2" href="$group__mouse.html#ga82ed7849577bda795e1ce1610efe550a" title="escreve um comando, é usada esta função depois do subscribe " alt="" coords="140,56,267,83"/>
+<area shape="rect" id="node4" href="$group__towerdefense.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main " alt="" coords="501,56,552,83"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga7528b123a3779d689c06876b78a0b91b" title="faz subscribe aos interrupts do mouse " alt="" coords="322,5,446,32"/>
+<area shape="rect" id="node5" href="$group__mouse.html#gabb62339e13d96f9050f69a71428f8eb9" title="faz unsubscribe aos interrupts do mouse " alt="" coords="315,56,453,83"/>
+</map>

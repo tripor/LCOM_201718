@@ -1,0 +1,5 @@
+<map id="carregar_imagens" name="carregar_imagens">
+<area shape="rect" id="node2" href="$group__low_program.html#ga4f59233c6f6979e081734df1cd2b5a50" title="faz load a um bmp. numa linha do bmp ignora o branco e guarda tudo o que seja diferente de branco..." alt="" coords="179,31,277,57"/>
+<area shape="rect" id="node3" href="$group__low_program.html#ga06fa925814e1cb6f5ef7fa4cb03ddb17" title="adiciona duas strings a uma " alt="" coords="325,5,415,32"/>
+<area shape="rect" id="node4" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="327,56,413,83"/>
+</map>

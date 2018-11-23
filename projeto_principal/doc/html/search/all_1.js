@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['aa',['aa',['../structim.html#a0d93cce90953407d99b2064eef75cb8b',1,'im']]],
+  ['aa_5fdart',['AA_DART',['../group__macros.html#gab25aca912ea3150beeaf28c8e5a3b9cb',1,'macros.h']]],
+  ['aa_5fsuper',['AA_SUPER',['../group__macros.html#ga317e3428f0a9656a65f845509b55bee1',1,'macros.h']]],
+  ['ack',['ACK',['../group__mouse__macros.html#ga6f6489887e08bff4887d0bc5dcf214d8',1,'mouse_macros.h']]],
+  ['aconteceu_5fcolisao',['aconteceu_colisao',['../group__program.html#ga4abe80470d0aa08b027a9583102882ee',1,'aconteceu_colisao(balao_type *balao, projetil *dardo):&#160;program.c'],['../group__program.html#ga4abe80470d0aa08b027a9583102882ee',1,'aconteceu_colisao(balao_type *balao, projetil *dardo):&#160;program.c']]],
+  ['add_5fbalao',['add_balao',['../group__low_program.html#ga515d867d62340b40b9c4769e92714ba3',1,'add_balao(Bitmap *nom, unsigned long hp, unsigned long speed, caminho *inicio):&#160;lowProgram.c'],['../group__low_program.html#ga515d867d62340b40b9c4769e92714ba3',1,'add_balao(Bitmap *nom, unsigned long hp, unsigned long speed, caminho *inicio):&#160;lowProgram.c']]],
+  ['add_5fblue',['add_blue',['../group__program.html#gaf90841a8e67fc4a9c63889db091e90b5',1,'add_blue():&#160;program.c'],['../group__program.html#gaf90841a8e67fc4a9c63889db091e90b5',1,'add_blue():&#160;program.c']]],
+  ['add_5fdart',['add_dart',['../group__program.html#ga0318468ac4968db0c98d6c692bcba04d',1,'add_dart(int posX, int posY):&#160;program.c'],['../group__program.html#ga0318468ac4968db0c98d6c692bcba04d',1,'add_dart(int posX, int posY):&#160;program.c']]],
+  ['add_5fgreen',['add_green',['../group__program.html#gaffc10441eee94abbcfd7b1215324e1a0',1,'add_green():&#160;program.c'],['../group__program.html#gaffc10441eee94abbcfd7b1215324e1a0',1,'add_green():&#160;program.c']]],
+  ['add_5fmonkey',['add_monkey',['../group__low_program.html#ga639a320954450528c2a721eec7190198',1,'add_monkey(Bitmap *nom, Bitmap *tipo, int posX, int posY, unsigned long range, unsigned long speed_lancar, unsigned long pierce, unsigned long aa, monkey_type type):&#160;lowProgram.c'],['../group__low_program.html#ga639a320954450528c2a721eec7190198',1,'add_monkey(Bitmap *nom, Bitmap *tipo, int posX, int posY, unsigned long range, unsigned long speed_lancar, unsigned long pierce, unsigned long aa, monkey_type type):&#160;lowProgram.c']]],
+  ['add_5fpink',['add_pink',['../group__program.html#ga839e4fde58cd71587f5b589f2837d834',1,'add_pink():&#160;program.c'],['../group__program.html#ga839e4fde58cd71587f5b589f2837d834',1,'add_pink():&#160;program.c']]],
+  ['add_5fpop',['add_pop',['../group__low_program.html#gae126b63732cc07341432a48b8cb38220',1,'add_pop(Bitmap *nom, int posX, int posY):&#160;lowProgram.c'],['../group__low_program.html#gae126b63732cc07341432a48b8cb38220',1,'add_pop(Bitmap *nom, int posX, int posY):&#160;lowProgram.c']]],
+  ['add_5fprojetil',['add_projetil',['../group__low_program.html#ga15317ce66833738cba41d44f6d80dc3a',1,'add_projetil(Bitmap *nom, int posX, int posY, unsigned long pierce, long speedX, long speedY, imagem *pertence):&#160;lowProgram.c'],['../group__low_program.html#ga15317ce66833738cba41d44f6d80dc3a',1,'add_projetil(Bitmap *nom, int posX, int posY, unsigned long pierce, long speedX, long speedY, imagem *pertence):&#160;lowProgram.c']]],
+  ['add_5fred',['add_red',['../group__program.html#ga1a86d3f17599a3160c8a01d7f488aad2',1,'add_red():&#160;program.c'],['../group__program.html#ga1a86d3f17599a3160c8a01d7f488aad2',1,'add_red():&#160;program.c']]],
+  ['add_5fstrings',['add_strings',['../group__low_program.html#ga06fa925814e1cb6f5ef7fa4cb03ddb17',1,'add_strings(const char *s1, const char *s2):&#160;lowProgram.c'],['../group__low_program.html#ga06fa925814e1cb6f5ef7fa4cb03ddb17',1,'add_strings(const char *s1, const char *s2):&#160;lowProgram.c']]],
+  ['add_5fsuper',['add_super',['../group__program.html#ga596ce0387324b7de723ede5f7f2e34db',1,'add_super(int posX, int posY):&#160;program.c'],['../group__program.html#ga596ce0387324b7de723ede5f7f2e34db',1,'add_super(int posX, int posY):&#160;program.c']]],
+  ['add_5fyellow',['add_yellow',['../group__program.html#ga5933ca7cbaa6fd99f310593fb90b441a',1,'add_yellow():&#160;program.c'],['../group__program.html#ga5933ca7cbaa6fd99f310593fb90b441a',1,'add_yellow():&#160;program.c']]],
+  ['align_5fcenter',['ALIGN_CENTER',['../group___bitmap.html#ggacdfaca60ec19c0265bac2692d7982726a5624165187e56db612253e608a45b1c6',1,'bitmap.h']]],
+  ['align_5fleft',['ALIGN_LEFT',['../group___bitmap.html#ggacdfaca60ec19c0265bac2692d7982726a6ec599857e15466988726932dd592305',1,'bitmap.h']]],
+  ['align_5fright',['ALIGN_RIGHT',['../group___bitmap.html#ggacdfaca60ec19c0265bac2692d7982726a9c81840e8cad46418b39a8b74a246354',1,'bitmap.h']]],
+  ['alignment',['Alignment',['../group___bitmap.html#gacdfaca60ec19c0265bac2692d7982726',1,'bitmap.h']]],
+  ['asm_2ed',['asm.d',['../asm_8d.html',1,'']]],
+  ['aux',['AUX',['../group__mouse__macros.html#ga1b41fd2be63532d4ab910f8b256c3811',1,'mouse_macros.h']]],
+  ['avancar',['avancar',['../group__low_program.html#ga07fe1da02dc273391b12d193f549efca',1,'avancar():&#160;lowProgram.c'],['../group__low_program.html#ga07fe1da02dc273391b12d193f549efca',1,'avancar():&#160;lowProgram.c']]],
+  ['avancar_5fprojeteis',['avancar_projeteis',['../group__low_program.html#gaea452189deb07cde2697c7df274cc325',1,'avancar_projeteis(unsigned char buffer[], balao_type **colisao, balao_type **vazio):&#160;lowProgram.c'],['../group__low_program.html#gaea452189deb07cde2697c7df274cc325',1,'avancar_projeteis(unsigned char buffer[], balao_type **colisao, balao_type **vazio):&#160;lowProgram.c']]]
+];

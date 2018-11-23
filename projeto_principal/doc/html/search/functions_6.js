@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['kbd_5fhandler',['kbd_handler',['../group__keyboard.html#ga0176f2e1058d5de125dab9b4d95a0c37',1,'kbd_handler(unsigned long *code2):&#160;keyboard.c'],['../group__keyboard.html#ga0176f2e1058d5de125dab9b4d95a0c37',1,'kbd_handler(unsigned long *code2):&#160;keyboard.c']]],
+  ['kbd_5fsubscribe',['kbd_subscribe',['../group__keyboard.html#ga30099edd4f1949ad1e95c8b4cace395d',1,'kbd_subscribe(void):&#160;keyboard.c'],['../group__keyboard.html#ga30099edd4f1949ad1e95c8b4cace395d',1,'kbd_subscribe(void):&#160;keyboard.c']]],
+  ['kbd_5funsubscribe',['kbd_unsubscribe',['../group__keyboard.html#ga236b36fb9eb70f7233f4e661b7b45eff',1,'kbd_unsubscribe():&#160;keyboard.c'],['../group__keyboard.html#ga236b36fb9eb70f7233f4e661b7b45eff',1,'kbd_unsubscribe():&#160;keyboard.c']]],
+  ['keypressed',['keypressed',['../group__program.html#ga6ac4bc10ca05a2660604cf0d6a228fce',1,'keypressed(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c'],['../group__program.html#ga6ac4bc10ca05a2660604cf0d6a228fce',1,'keypressed(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c']]],
+  ['keypressed_5fjogador1',['keypressed_jogador1',['../group__program.html#ga9a80f524b3c4910d2b53d75332951d86',1,'keypressed_jogador1(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c'],['../group__program.html#ga9a80f524b3c4910d2b53d75332951d86',1,'keypressed_jogador1(unsigned long scancode, mouse_data *dados, imagem *mouse):&#160;program.c']]],
+  ['keypressed_5fjogador2',['keypressed_jogador2',['../group__program.html#gad5f3ec2980fa2bf1ce9dedd03db43252',1,'keypressed_jogador2(unsigned long scancode):&#160;program.c'],['../group__program.html#gad5f3ec2980fa2bf1ce9dedd03db43252',1,'keypressed_jogador2(unsigned long scancode):&#160;program.c']]]
+];

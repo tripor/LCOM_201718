@@ -1,0 +1,7 @@
+<map id="esperar_vazio" name="esperar_vazio">
+<area shape="rect" id="node2" href="$group__ser.html#ga1c34e4cd41e82ea8a25a0370fd6c4c88" title="mando um macaco para o outro jogador " alt="" coords="155,5,257,32"/>
+<area shape="rect" id="node5" href="$group__ser.html#ga9941f22e49c9f87d26a437a949dec273" title="manda um balão para o outro jogador " alt="" coords="162,56,250,83"/>
+<area shape="rect" id="node3" href="$group__program.html#ga39a1d2266f7d46a9777ffdc06e837409" title="função que trata do controlo do rato " alt="" coords="312,5,444,32"/>
+<area shape="rect" id="node4" href="$group__towerdefense.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main " alt="" coords="499,56,549,83"/>
+<area shape="rect" id="node6" href="$group__program.html#gad5f3ec2980fa2bf1ce9dedd03db43252" title="na versão multiplayer quando for clicada uma tecla pelo jogador 2 " alt="" coords="305,107,451,133"/>
+</map>

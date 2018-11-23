@@ -1,0 +1,25 @@
+<map id="comeca" name="comeca">
+<area shape="rect" id="node2" href="$group___caminho.html#gafe0544fa4fcdf8beb13b4e652861d590" title="cria o caminho para o primeiro mapa " alt="" coords="129,183,239,209"/>
+<area shape="rect" id="node4" href="$group__round.html#ga3e676eb6a396ee60bb41db4d87660844" title="função que cria as rondas do jogo " alt="" coords="134,436,234,463"/>
+<area shape="rect" id="node21" href="$group__program.html#ga1c1129d6d9a1eeb9aa8f09b9a3d7ed4a" title="função que carrega todas as imagens para a memoria " alt="" coords="121,664,247,691"/>
+<area shape="rect" id="node3" href="$group___caminho.html#ga8ec2440edd375fc78f339dffff065e37" title="Preenche no mapa das colisão a posição ocupada pelo balão para não poderem ser colocadas torres nessa pos..." alt="" coords="305,5,383,32"/>
+<area shape="rect" id="node5" href="$round_8c.html#ab64bd680ae7e0042983242dba9401ebc" title="ronda1" alt="" coords="313,56,375,83"/>
+<area shape="rect" id="node6" href="$round_8c.html#a1cba5827153c52e7704629b7a1771e16" title="ronda2" alt="" coords="313,107,375,133"/>
+<area shape="rect" id="node7" href="$round_8c.html#a132d059aab74bfd158a72f3eaef5e963" title="ronda3" alt="" coords="313,157,375,184"/>
+<area shape="rect" id="node8" href="$round_8c.html#ae2124985ce4949d859fffa7d2e048425" title="ronda4" alt="" coords="313,208,375,235"/>
+<area shape="rect" id="node9" href="$round_8c.html#ada4df0eff94fb74d786abceb4b0b5ee9" title="ronda5" alt="" coords="313,259,375,285"/>
+<area shape="rect" id="node10" href="$round_8c.html#a50ca0a30ea510ca5171405adc64b3b85" title="ronda6" alt="" coords="313,309,375,336"/>
+<area shape="rect" id="node11" href="$round_8c.html#ac80e020b02c0e1b91fd5c1930d1224f5" title="ronda7" alt="" coords="313,360,375,387"/>
+<area shape="rect" id="node12" href="$round_8c.html#a09a4f9ff9d3cfd0798267a8d4b9970c1" title="ronda8" alt="" coords="313,411,375,437"/>
+<area shape="rect" id="node13" href="$round_8c.html#a3fca1dfdb438de14257660b5fe1f1809" title="ronda9" alt="" coords="313,461,375,488"/>
+<area shape="rect" id="node14" href="$round_8c.html#af562cbbb28bc01a0b3292fc37c1dce37" title="ronda10" alt="" coords="310,512,378,539"/>
+<area shape="rect" id="node15" href="$round_8c.html#a2020350474b0f763227a3b1ffccd2d29" title="ronda11" alt="" coords="310,563,378,589"/>
+<area shape="rect" id="node16" href="$round_8c.html#aa428b14d364a5954dfb73ecd453cb2e0" title="ronda12" alt="" coords="310,613,378,640"/>
+<area shape="rect" id="node17" href="$round_8c.html#a921d674516c1ce6ff7293e00efa70dcc" title="ronda13" alt="" coords="310,664,378,691"/>
+<area shape="rect" id="node18" href="$round_8c.html#afaddae57d077e0450cf3eca83140002b" title="ronda14" alt="" coords="310,715,378,741"/>
+<area shape="rect" id="node19" href="$round_8c.html#a632ccfd8c258e17d5a73adc787bc4aae" title="ronda15" alt="" coords="310,765,378,792"/>
+<area shape="rect" id="node20" href="$round_8c.html#a30e6ff93e96e53ae2f6e3b563c747367" title="ronda16" alt="" coords="310,816,378,843"/>
+<area shape="rect" id="node22" href="$group__low_program.html#ga4f59233c6f6979e081734df1cd2b5a50" title="faz load a um bmp. numa linha do bmp ignora o branco e guarda tudo o que seja diferente de branco..." alt="" coords="295,867,393,893"/>
+<area shape="rect" id="node23" href="$group__low_program.html#ga06fa925814e1cb6f5ef7fa4cb03ddb17" title="adiciona duas strings a uma " alt="" coords="441,841,531,868"/>
+<area shape="rect" id="node24" href="$group___bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image. " alt="" coords="443,892,529,919"/>
+</map>

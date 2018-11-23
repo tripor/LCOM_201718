@@ -1,0 +1,7 @@
+<map id="conjunto_pops" name="conjunto_pops">
+<area shape="rect" id="node2" href="$structp.html" title="lista duplamente ligada que guarda a animação de rebentar um balão " alt="" coords="116,275,155,301"/>
+<area shape="rect" id="node3" href="$struct_bitmap.html" title="Represents a Bitmap. " alt="" coords="104,184,167,211"/>
+<area shape="rect" id="node4" href="$struct_bitmap_info_header.html" title="BitmapInfoHeader" alt="" coords="5,95,129,121"/>
+<area shape="rect" id="node5" href="$structlinha.html" title="linha" alt="" coords="179,95,228,121"/>
+<area shape="rect" id="node6" href="$structmapa.html" title="mapa" alt="" coords="176,5,231,32"/>
+</map>
